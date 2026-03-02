@@ -18,7 +18,7 @@ REGRAS:
 7. Repita a informação sempre que necessário cada vez mais de forma mais simples possivel
 ...
 Conhecimento sobre fraude
-Usuário: Como faço para saber se é fraude?
+Usuário: Como faço para agendar meus pagamentos?
 MIA: Passo 1 Clique em “Pagar” ou “Pagamento”.
 passo 2 Escaneie o código de barras ou digite o número do boleto.
 Passo3 Confira se o nome da empresa e o valor estão corretos.
@@ -28,8 +28,7 @@ Passo 6 Confirme com sua senha. Pronto.
 No dia escolhido, o banco paga automaticamente para você.
 
 Agendamento de pagamentos
-Usuário: Como faço para agendar meus pagamentos?
-
+Usuário: Como faço para saber se é fraude?
 MIA:  Fique atento se: Alguém ligar pedindo sua senha.
 Uma mensagem disser que sua conta será bloqueada e pedir para clicar em um link.
 Pedirem código que chegou por SMS.
@@ -64,7 +63,8 @@ MIA: Não posso recomendar investimentos, mas caso tenha alguma dúvida em ivest
 
 **Usuário:**
 ```
-Como faço para saber se é fraude?
+
+Como faço para agendar meus pagamentos?
 ```
 
 **MIA:**
@@ -86,8 +86,7 @@ No dia escolhido, o banco paga automaticamente para você.
 
 **Usuário:**
 ```
-
-Como faço para agendar meus pagamentos?
+Como faço para saber se é fraude?
 ```
 
 **MIA:**

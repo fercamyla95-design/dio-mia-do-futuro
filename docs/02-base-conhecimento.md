@@ -16,7 +16,8 @@
 
 ### Como os dados são carregados?
 
-"""import pandas as pd
+```
+import pandas as pd
 import json
 
 #CSV
@@ -123,7 +124,7 @@ Produtos disponiveis: (data/produtos_financeiros.json)
     "indicado_para": "Perfil arrojado com foco no longo prazo"
   }
 ]
-"""
+```
 ---
 
 ## Exemplo de Contexto Montado
